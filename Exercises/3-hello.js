@@ -1,5 +1,7 @@
-'use strict';
+"use strict";
 
-const hello = name => 'Hello' + hello('Elena');
+const hello = (name) => {
+  console.log(`Greeting for ${name}`);
+};
 
 module.exports = { hello };

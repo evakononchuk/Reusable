@@ -1,5 +1,5 @@
-'use strict';
+"use strict";
 
-let name = 'Elena';
+let name = "Elena";
 
 module.exports = { name };
